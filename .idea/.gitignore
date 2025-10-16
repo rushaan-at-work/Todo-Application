@@ -1,0 +1,35 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+### Maven ###
+target/
+!.mvn/wrapper/maven-wrapper.jar
+.mvn/
+log/
+logs/
+
+### IntelliJ IDEA ###
+.idea/
+*.iml
+out/
+
+### VS Code ###
+.vscode/
+
+### Eclipse ###
+.project
+.classpath
+.settings/
+
+### OS Files ###
+.DS_Store
+Thumbs.db
+
+### Build ###
+*.log
+
+### Environment ###
+.env
+application.properties
+application.yml
+
