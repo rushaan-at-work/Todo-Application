@@ -17,12 +17,12 @@ A simple **Spring Boot Todo Application** to manage tasks efficiently. Users can
 ## Screenshots
 
 **1. Home Page/Task List**
-![Home Page](To-Do\todo\images\Not_Toggled.png)
+![Home Page](todo\images\Not_Toggled.png)
 
 
 
 **2. Toggle Task Completion**
-![Toggle Task](To-Do\todo\images\Toggle.png)
+![Toggle Task](todo\images\Toggled.png)
 
 
 
