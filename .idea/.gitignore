@@ -1,35 +1,22 @@
-# Default ignored files
-/shelf/
-/workspace.xml
-### Maven ###
-target/
-!.mvn/wrapper/maven-wrapper.jar
-.mvn/
-log/
-logs/
-
-### IntelliJ IDEA ###
-.idea/
+# Java / Spring Boot
+*.class
+*.jar
+*.war
 *.iml
+*.log
+target/
+bin/
 out/
 
-### VS Code ###
-.vscode/
+# IDE files
+.idea/
+*.ipr
+*.iws
+*.swp
 
-### Eclipse ###
-.project
-.classpath
-.settings/
-
-### OS Files ###
-.DS_Store
-Thumbs.db
-
-### Build ###
-*.log
-
-### Environment ###
-.env
-application.properties
-application.yml
+# Environment / secrets
+#application.properties
+#.env
+/src/main/resources/application.properties
+/.env
 
